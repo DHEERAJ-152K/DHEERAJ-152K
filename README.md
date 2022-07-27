@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DHEERAJ-152K
+- 👋 Hi, I’m DHEERAJ K P
 - 👀 I’m interested in WEB & ANDROID development.
 - 🌱 I’m currently learning Android development.
 - 💞️ I’m looking to collaborate on good projects. 
