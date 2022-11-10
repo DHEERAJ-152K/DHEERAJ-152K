@@ -1,6 +1,5 @@
-- 👋 Hi, I’m DHEERAJ K P
-- 👀 I’m interested in WEB & ANDROID development.
-- 🌱 I’m currently learning Android development.
+- 👋 Hello, I’m DHEERAJ K P
+- 👀 Learning and practicing web development & DSA.
 - 💞️ Eager to collaborate on good projects. 
 - 📫 How to reach me ... dheerudheeraj033@gmail.com
 
